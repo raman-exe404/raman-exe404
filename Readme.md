@@ -87,21 +87,77 @@ public class Ramandeep {
 
 ## 🚀 Featured Work
 
-| 🎙️ **Voxora.ai** | 🔐 **Password Manager** |
-|:---:|:---:|
-| **AI-powered voice assistant** <br> *Gemini API + Deepgram STT* | **Secure Java Swing App** <br> *AES Encryption + Clean UI* |
-| <a href="https://github.com/raman-exe404/Voxora.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Voxora.ai&theme=dracula&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF" width="100%"/></a> | <a href="https://github.com/raman-exe404/SwingWebsitePasswordManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=SwingWebsitePasswordManager&theme=dracula&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF" width="100%"/></a> |
+<div align="center">
 
-| ⚡ **GlassBox Simulator** | 📂 **All Projects** |
-|:---:|:---:|
-| **Microgrid Optimization** <br> *Energy Scheduling Algorithms* | **Explore my full portfolio** <br> *More cool stuff inside* |
-| <a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Algorithmic-GlassBox-Simulator&theme=dracula&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF" width="100%"/></a> | <br><a href="https://github.com/raman-exe404?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-6C63FF?style=for-the-badge&logoColor=white" height="50" /></a> |
+<table>
+<tr>
+
+<td width="50%" align="center">
+  <h3>🎙️ Voxora.ai</h3>
+  <p><b>AI-powered voice assistant</b><br>
+  Gemini API + Deepgram STT</p>
+
+  <a href="https://github.com/raman-exe404/Voxora.ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Voxora.ai&theme=dracula&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/raman-exe404/Voxora.ai">
+    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <h3>🔐 Password Manager</h3>
+  <p><b>Secure Java Swing App</b><br>
+  AES Encryption + Clean UI</p>
+
+  <a href="https://github.com/raman-exe404/SwingWebsitePasswordManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=SwingWebsitePasswordManager&theme=dracula&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/raman-exe404/SwingWebsitePasswordManager">
+    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+  <h3>⚡ GlassBox Simulator</h3>
+  <p><b>Microgrid Optimization</b><br>
+  Energy Scheduling Algorithms</p>
+
+  <a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Algorithmic-GlassBox-Simulator&theme=dracula&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator">
+    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <h3>📂 All Projects</h3>
+  <p><b>Explore my full portfolio</b><br>
+  More cool stuff inside 🚀</p>
+
+  <a href="https://github.com/raman-exe404?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-FF4C8B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+</tr>
+</table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ## 📊 GitHub Analytics
 
