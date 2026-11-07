@@ -1,189 +1,188 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,32,33,35&height=320&section=header&text=Ramandeep%20Singh&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=55&descAlign=60" width="100%"/>
-  
-  <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Architecting+scalable+backend+systems;Building+AI-powered+experiences;Solving+real-world+problems+with+code" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.svg">
+  <img src="./assets/hero.svg" width="100%" alt="Ramandeep Singh. Backend depth. Full-stack range. Java and Spring Boot, applied AI, and full-stack systems.">
+</picture>
 
-  <br>
+<br><br>
 
-  <a href="https://www.linkedin.com/in/ramandeep-singh-425a532a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/raman-exe404">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+**Java Backend Developer &nbsp; / &nbsp; AI Builder &nbsp; / &nbsp; Full-Stack Engineer**
 
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=raman-exe404&color=6C63FF&style=flat-square&label=Profile+Views" alt="views" />
+I build at the intersection of reliable systems, useful AI, and thoughtful interfaces.
+
+<a href="https://www.linkedin.com/in/ramandeep-singh-425a532a6/"><img src="https://img.shields.io/badge/LET'S_CONNECT-8FFFD2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B1220" alt="Connect with Ramandeep on LinkedIn"></a>
+&nbsp;
+<a href="mailto:ramandeepsinghrds2006@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-BBA4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1220" alt="Email Ramandeep"></a>
+&nbsp;
+<a href="https://github.com/raman-exe404?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-202B40?style=for-the-badge&amp;logo=github&amp;logoColor=E8EDF7" alt="Explore all repositories"></a>
+
+<br><br>
+
+[Selected work](#selected-work) &nbsp; · &nbsp; [Engineering DNA](#engineering-dna) &nbsp; · &nbsp; [Toolkit](#toolkit) &nbsp; · &nbsp; [Activity](#activity) &nbsp; · &nbsp; [Connect](#connect)
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## ⚡ About Me
-
-Backend engineer focused on **scalable architecture** and **AI integration**.  
-I build systems that matter—clean code, robust design, real impact.
 
 <br>
 
-<div align="left" style="width: 80%; margin: auto;">
+## Engineering DNA
+
+**The interface gets your attention. The engineering earns your trust.**
+
+I'm Ramandeep, a developer from India focused on **Java, Spring Boot, AI integration, and system design**. I enjoy taking an idea all the way from the first sketch to a working experience—not just making it function, but making it make sense.
 
 ```java
-@Developer
-public class Ramandeep {
-    private final String location = "India 🇮🇳";
-    private final String[] expertise = {
-        "Java", "Spring Boot", 
-        "AI Integration", "System Design"
-    };
-
-    public String mission() {
-        return "Building production-grade systems.";
+public record Developer(String name, String focus, String mindset) {
+    public static Developer raman() {
+        return new Developer(
+            "Ramandeep Singh",
+            "Reliable backends. Useful AI. Thoughtful experiences.",
+            "Understand deeply. Build deliberately. Keep improving."
+        );
     }
 }
 ```
 
-</div>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🏆 Achievements & Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=raman-exe404&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+| Backend depth | Applied intelligence | Product thinking |
+| :--- | :--- | :--- |
+| Java and Spring Boot, with a focus on clear architecture and maintainable systems. | Connecting models, data, and interfaces to solve real human problems. | Bringing backend logic and frontend detail together into a coherent experience. |
 
 <br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-<!-- Pseudo Achievements / Visual Badges -->
-<img src="https://img.shields.io/badge/Problem%20Solver-Expert-orange?style=for-the-badge&logo=stackoverflow" />
-<img src="https://img.shields.io/badge/Language-Java_Master-red?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/AI-Innovator-blue?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
+## Selected work
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,react,nodejs,docker,mysql,postgresql,mongodb,redis,aws,gcp,git,linux&perline=8&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🚀 Featured Work
-
-<div align="center">
+A few things I've built. Different domains. The same instinct: **make complexity useful.**
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
-  <h3>🎙️ Voxora.ai</h3>
-  <p><b>AI-powered voice assistant</b><br>
-  Gemini API + Deepgram STT</p>
+<a href="https://github.com/raman-exe404/Voxora.ai"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-voxora-static.svg"><img src="./assets/project-voxora.svg" width="100%" alt="Voxora.ai — accessibility meets AI"></picture></a>
 
-  <a href="https://github.com/raman-exe404/Voxora.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Voxora.ai&theme=dracula&hide_border=true" />
-  </a>
+### Voxora.ai
+**Giving signs a voice.**
 
-  <br><br>
+Real-time ASL recognition that turns hand signs into text and speech, with sentence formation and AI-assisted corrections.
 
-  <a href="https://github.com/raman-exe404/Voxora.ai">
-    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+`Python` `Flask` `React` `TensorFlow` `OpenCV`
+
+[Explore the code →](https://github.com/raman-exe404/Voxora.ai) &nbsp; [Watch the demo ↗](https://youtu.be/cvyST-QWqhw)
+
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
-  <h3>🔐 Password Manager</h3>
-  <p><b>Secure Java Swing App</b><br>
-  AES Encryption + Clean UI</p>
+<a href="https://github.com/raman-exe404/VistAI"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-vistai-static.svg"><img src="./assets/project-vistai.svg" width="100%" alt="VistAI — personalized learning paths"></picture></a>
 
-  <a href="https://github.com/raman-exe404/SwingWebsitePasswordManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=SwingWebsitePasswordManager&theme=dracula&hide_border=true" />
-  </a>
+### VistAI
+**Less information overload. More direction.**
 
-  <br><br>
+An AI-powered learning platform that organizes educational content into personalized paths, notes, quizzes, and progress tracking.
 
-  <a href="https://github.com/raman-exe404/SwingWebsitePasswordManager">
-    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+`TypeScript` `AI-generated notes` `Learning paths`
+
+[Explore the code →](https://github.com/raman-exe404/VistAI)
+
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
-  <h3>⚡ GlassBox Simulator</h3>
-  <p><b>Microgrid Optimization</b><br>
-  Energy Scheduling Algorithms</p>
+<a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-glassbox-static.svg"><img src="./assets/project-glassbox.svg" width="100%" alt="Glass Box — a visual pathfinding grid"></picture></a>
 
-  <a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raman-exe404&repo=Algorithmic-GlassBox-Simulator&theme=dracula&hide_border=true" />
-  </a>
+### Algorithmic Glass Box
+**Algorithms shouldn't be black boxes.**
 
-  <br><br>
+An interactive pathfinding lab that makes BFS, DFS, Dijkstra, and A* visible, explainable, and comparable—one decision at a time.
 
-  <a href="https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator">
-    <img src="https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+`React` `TypeScript` `Pathfinding` `Visualization`
+
+[Explore the code →](https://github.com/raman-exe404/Algorithmic-GlassBox-Simulator) &nbsp; [Live experience ↗](https://algorithmic-glass-box-simulator.vercel.app)
+
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
-  <h3>📂 All Projects</h3>
-  <p><b>Explore my full portfolio</b><br>
-  More cool stuff inside 🚀</p>
+<a href="https://github.com/raman-exe404/Aura_Luxe"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-aura-static.svg"><img src="./assets/project-aura.svg" width="100%" alt="Aura Luxe — a cinematic commerce experience"></picture></a>
 
-  <a href="https://github.com/raman-exe404?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-FF4C8B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+### Aura Luxe
+**Engineering with an eye for detail.**
+
+A cinematic e-commerce experience for Aura Luxe Bags, with curated collections, product showcases, and an admin dashboard.
+
+`TypeScript` `E-commerce` `Product experience`
+
+[Explore the code →](https://github.com/raman-exe404/Aura_Luxe) &nbsp; [Live experience ↗](https://aura-luxe-swart.vercel.app)
+
 </td>
-
 </tr>
 </table>
 
-</div>
-
-## 📊 GitHub Analytics
-
-<a href="https://github.com/raman-exe404">
-  <img src="https://github-readme-stats.vercel.app/api?username=raman-exe404&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
-</a>
-<a href="https://github.com/raman-exe404">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raman-exe404&theme=dracula&background=0d1117&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raman-exe404&theme=react-dark&hide_border=true&area=true&color=6C63FF" width="100%" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raman-exe404/raman-exe404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raman-exe404/raman-exe404/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raman-exe404/raman-exe404/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br>
+**Also in the workshop:** [InterVue AI](https://github.com/raman-exe404/IntervueAi) · AI-assisted interview practice &nbsp; / &nbsp; [VibeVoyage](https://github.com/raman-exe404/VibeVoyage) · personalized travel planning
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,32,33,35&height=100&section=footer&fontSize=10&animation=fadeIn" width="100%"/>
+
+[Browse the full collection →](https://github.com/raman-exe404?tab=repositories)
+
+</div>
+
+<br>
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## Toolkit
+
+The tools change. **The problem-solving mindset stays.**
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & languages** | Java · Spring Boot · Python · JavaScript · TypeScript · Node.js |
+| **Interfaces** | React · Java Swing |
+| **Data** | MySQL · PostgreSQL · MongoDB · Redis |
+| **Infrastructure & workflow** | Docker · AWS · Google Cloud · Git · Linux |
+| **AI & computer vision** | TensorFlow · OpenCV · MediaPipe · LLM integration |
+
+<div align="center">
+
+<br>
+<a href="https://github.com/raman-exe404?tab=repositories"><img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nodejs,postgres,redis,docker,git,linux&amp;perline=11&amp;theme=dark" width="660" alt="Java, Spring, Python, TypeScript, React, Node.js, PostgreSQL, Redis, Docker, Git, and Linux"></a>
+
+</div>
+
+<br>
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## Activity
+
+**Small commits. Compounding progress.**
+
+My contribution trail, reimagined as a little code-eating snake. Refreshed automatically every 12 hours by GitHub Actions.
+
+<details>
+<summary><b>Play the contribution animation</b> · expand to explore</summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raman-exe404/raman-exe404/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/raman-exe404/raman-exe404/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake tracing Ramandeep's actual GitHub contribution grid">
+</picture>
+
+[View the generator](https://github.com/raman-exe404/raman-exe404/actions/workflows/snake.yml) · [Explore contributions on GitHub](https://github.com/raman-exe404?tab=overview)
+
+</details>
+
+**Practicing the fundamentals:** [Java data structures & algorithms →](https://github.com/raman-exe404/DSA)
+
+<br>
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## Connect
+
+Have an interesting problem, a collaboration idea, or a project worth talking about? **Let's start a conversation.**
+
+**[LinkedIn ↗](https://www.linkedin.com/in/ramandeep-singh-425a532a6/)** &nbsp; / &nbsp; **[Email ↗](mailto:ramandeepsinghrds2006@gmail.com)** &nbsp; / &nbsp; **[GitHub ↗](https://github.com/raman-exe404)**
+
+<br>
+
+<a href="mailto:ramandeepsinghrds2006@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Good ideas deserve great engineering. Let's build something that matters."></a>
+
+<div align="center">
+<sub>Built with intent. Always a work in progress.</sub>
 </div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-labelledby="title desc">
+<title id="title">Good ideas deserve great engineering.</title><desc id="desc">Let's build something that matters. Ramandeep Singh.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1725"/><stop offset="1" stop-color="#19152c"/></linearGradient><linearGradient id="line"><stop stop-color="#8fffd2"/><stop offset="1" stop-color="#bba4ff"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="228" rx="20" fill="url(#bg)" stroke="#2b354a"/>
+<path d="M58 1h1164" stroke="url(#line)" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="43" letter-spacing="-1" fill="#f0f4ff"><text x="58" y="94">Good ideas deserve</text><text x="58" y="147" fill="#8fffd2">great engineering.</text></g>
+<g font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#bba4ff"><text x="58" y="192">LET'S BUILD SOMETHING THAT MATTERS.</text><text x="1011" y="192">RAMAN / EXE404</text></g>
+<g fill="none" stroke="#bba4ff" stroke-opacity=".4"><circle cx="1120" cy="95" r="43"/><circle cx="1120" cy="95" r="62" stroke-dasharray="3 9"/><path d="m1100 95h40m-15-15 15 15-15 15" stroke="#8fffd2" stroke-width="2"/></g>
+</svg>

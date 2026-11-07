@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-labelledby="title desc">
+  <title id="title">Voxora.ai</title>
+  <desc id="desc">Making communication more inclusive.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0d1627" />
+      <stop offset="1" stop-color="#16172b" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="598" height="228" rx="16" fill="url(#bg)" stroke="#303b51" />
+  <path d="M28 55H572" stroke="#2b354a" />
+  <g font-family="'Courier New',monospace" font-size="12" letter-spacing="2" fill="#8fffd2">
+    <text x="28" y="34">01 / ACCESSIBILITY × AI</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="28" y="117" font-size="29" font-weight="700" fill="#f0f4ff">Voxora.ai</text>
+    <text x="28" y="149" font-size="15" fill="#b5c1d6">Making communication more inclusive.</text>
+  </g>
+  <path d="M28 189H68" stroke="#8fffd2" stroke-width="3" />
+  <circle cx="80" cy="189" r="3" fill="#8fffd2" />
+  <circle cx="485" cy="128" r="78" fill="#8fffd2" fill-opacity=".035" />
+  <rect x="425" y="119.0" width="5" height="18" rx="2.5" fill="#8fffd2" opacity="0.45">
+    <animate repeatCount="indefinite" attributeName="height" values="18.0;7.2;18.0" dur="2.4s" begin="-0.0s" />
+    <animate repeatCount="indefinite" attributeName="y" values="119.0;124.4;119.0" dur="2.4s" begin="-0.0s" />
+  </rect>
+  <rect x="437" y="111.0" width="5" height="34" rx="2.5" fill="#8fffd2" opacity="0.5">
+    <animate repeatCount="indefinite" attributeName="height" values="34.0;13.6;34.0" dur="2.8s" begin="-0.21s" />
+    <animate repeatCount="indefinite" attributeName="y" values="111.0;121.2;111.0" dur="2.8s" begin="-0.21s" />
+  </rect>
+  <rect x="449" y="98.0" width="5" height="60" rx="2.5" fill="#8fffd2" opacity="0.55">
+    <animate repeatCount="indefinite" attributeName="height" values="60.0;24.0;60.0" dur="3.2s" begin="-0.42s" />
+    <animate repeatCount="indefinite" attributeName="y" values="98.0;116.0;98.0" dur="3.2s" begin="-0.42s" />
+  </rect>
+  <rect x="461" y="82.0" width="5" height="92" rx="2.5" fill="#8fffd2" opacity="0.6000000000000001">
+    <animate repeatCount="indefinite" attributeName="height" values="92.0;36.8;92.0" dur="2.4s" begin="-0.63s" />
+    <animate repeatCount="indefinite" attributeName="y" values="82.0;109.6;82.0" dur="2.4s" begin="-0.63s" />
+  </rect>
+  <rect x="473" y="68.0" width="5" height="120" rx="2.5" fill="#8fffd2" opacity="0.65">
+    <animate repeatCount="indefinite" attributeName="height" values="120.0;48.0;120.0" dur="2.8s" begin="-0.84s" />
+    <animate repeatCount="indefinite" attributeName="y" values="68.0;104.0;68.0" dur="2.8s" begin="-0.84s" />
+  </rect>
+  <rect x="485" y="89.0" width="5" height="78" rx="2.5" fill="#8fffd2" opacity="0.7">
+    <animate repeatCount="indefinite" attributeName="height" values="78.0;31.2;78.0" dur="3.2s" begin="-1.05s" />
+    <animate repeatCount="indefinite" attributeName="y" values="89.0;112.4;89.0" dur="3.2s" begin="-1.05s" />
+  </rect>
+  <rect x="497" y="104.0" width="5" height="48" rx="2.5" fill="#8fffd2" opacity="0.75">
+    <animate repeatCount="indefinite" attributeName="height" values="48.0;19.2;48.0" dur="2.4s" begin="-1.26s" />
+    <animate repeatCount="indefinite" attributeName="y" values="104.0;118.4;104.0" dur="2.4s" begin="-1.26s" />
+  </rect>
+  <rect x="509" y="94.0" width="5" height="68" rx="2.5" fill="#8fffd2" opacity="0.8">
+    <animate repeatCount="indefinite" attributeName="height" values="68.0;27.2;68.0" dur="2.8s" begin="-1.47s" />
+    <animate repeatCount="indefinite" attributeName="y" values="94.0;114.4;94.0" dur="2.8s" begin="-1.47s" />
+  </rect>
+  <rect x="521" y="113.0" width="5" height="30" rx="2.5" fill="#8fffd2" opacity="0.8500000000000001">
+    <animate repeatCount="indefinite" attributeName="height" values="30.0;12.0;30.0" dur="3.2s" begin="-1.68s" />
+    <animate repeatCount="indefinite" attributeName="y" values="113.0;122.0;113.0" dur="3.2s" begin="-1.68s" />
+  </rect>
+  <rect x="533" y="121.0" width="5" height="14" rx="2.5" fill="#8fffd2" opacity="0.9">
+    <animate repeatCount="indefinite" attributeName="height" values="14.0;5.6;14.0" dur="2.4s" begin="-1.89s" />
+    <animate repeatCount="indefinite" attributeName="y" values="121.0;125.2;121.0" dur="2.4s" begin="-1.89s" />
+  </rect>
+</svg>
